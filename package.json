@@ -10,7 +10,7 @@
     "typescript": "^3.7.5"
   },
   "scripts": {
-    "build": "tsc --project . --module UMD",
+    "build": "tsc --project .",
     "build:watch": "tsc --project . --watch",
     "prepare": "npm run build"
   },
