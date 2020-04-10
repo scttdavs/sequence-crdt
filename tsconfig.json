@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-      "module": "UMD",
+      "module": "ES6",
       "target": "es5",
       "sourceMap": true,
       "skipLibCheck": true,
@@ -14,7 +14,6 @@
       "allowSyntheticDefaultImports": true,
       "strict": true,
       "forceConsistentCasingInFileNames": true,
-      "moduleResolution": "classic",
       "isolatedModules": true,
       "noEmit": false,
       "strictNullChecks": false
